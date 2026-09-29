@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168802646611",
+    "project_id": "apnapayroll",
+    "storage_bucket": "apnapayroll.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168802646611:android:8ebc9345705261c326e4a6",
+        "android_client_info": {
+          "package_name": "com.mnm.apnapayroll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_VqiGLqdU_dZLUE2VuEiq6NqsA-jv4OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
